@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bb7594f-ee60-4dd9-add3-7e3806bb1162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DotNet.Tracing.Middleware/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotNet.Tracing.Middleware/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DotNet.Tracing.Middleware/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotNet.Tracing.Middleware/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bb7594f-ee60-4dd9-add3-7e3806bb1162" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +13,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataDogTracing.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="496">
+              <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
               <folding>
+                <marker date="1544820829049" expanded="false" signature="6:119" ph="..." />
                 <marker date="1544820829049" expanded="true" signature="156:1263" ph="{...}" />
                 <marker date="1544820829049" expanded="true" signature="190:994" ph="{...}" />
                 <marker date="1544820829049" expanded="true" signature="363:449" ph="{...}" />
@@ -105,12 +103,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544820747427</updated>
       <workItem from="1544820748884" duration="564000" />
-      <workItem from="1544821329682" duration="10000" />
+      <workItem from="1544821329682" duration="457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="574000" />
+    <option name="totallyTimeSpent" value="1021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -155,6 +153,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -168,9 +171,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataDogTracing.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="496">
+          <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
           <folding>
+            <marker date="1544820829049" expanded="false" signature="6:119" ph="..." />
             <marker date="1544820829049" expanded="true" signature="156:1263" ph="{...}" />
             <marker date="1544820829049" expanded="true" signature="190:994" ph="{...}" />
             <marker date="1544820829049" expanded="true" signature="363:449" ph="{...}" />
