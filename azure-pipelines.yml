@@ -13,5 +13,9 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: dotnet build --configuration $(buildConfiguration)
+- script: dotnet build --configuration $(buildConfiguration) DotNet.Tracing.Middleware/
   displayName: 'dotnet build $(buildConfiguration)'
+- task: NuGetCommand@2
+  inputs:
+    command: pack
+    packagesToPack: '**/*.csproj'
