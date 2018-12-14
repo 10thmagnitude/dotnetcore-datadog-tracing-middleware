@@ -21,7 +21,7 @@ steps:
   inputs:
     command: pack
     packagesToPack: 'DotNet.Tracing.Middleware/*.csproj'
-    versioningScheme: byPrereleaseNumber
+    versioningScheme: byBuildNumber
     majorVersion: '$(Major)'
     minorVersion: '$(Minor)'
     patchVersion: '$(rev:.r)'
