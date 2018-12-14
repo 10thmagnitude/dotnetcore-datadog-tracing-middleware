@@ -1,0 +1,9 @@
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/bin/Debug/netstandard2.0/DotNet.Tracing.Middleware.deps.json
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/bin/Debug/netstandard2.0/DotNet.Tracing.Middleware.dll
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/bin/Debug/netstandard2.0/DotNet.Tracing.Middleware.pdb
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/obj/Debug/netstandard2.0/DotNet.Tracing.Middleware.csprojAssemblyReference.cache
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/obj/Debug/netstandard2.0/DotNet.Tracing.Middleware.csproj.CoreCompileInputs.cache
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/obj/Debug/netstandard2.0/DotNet.Tracing.Middleware.AssemblyInfoInputs.cache
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/obj/Debug/netstandard2.0/DotNet.Tracing.Middleware.AssemblyInfo.cs
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/obj/Debug/netstandard2.0/DotNet.Tracing.Middleware.dll
+/Users/scott/Code/havi/app/dotnet-tracing-middleware/DotNet.Tracing.Middleware/obj/Debug/netstandard2.0/DotNet.Tracing.Middleware.pdb
