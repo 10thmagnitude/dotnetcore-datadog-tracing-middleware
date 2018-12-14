@@ -11,6 +11,8 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+  Major: '0'
+  Minor: '1'
 
 steps:
 - script: dotnet build --configuration $(buildConfiguration) DotNet.Tracing.Middleware/
@@ -18,4 +20,8 @@ steps:
 - task: NuGetCommand@2
   inputs:
     command: pack
-    packagesToPack: '**/*.csproj'
+    packagesToPack: 'DotNet.Tracing.Middleware/*.csproj'
+    versioningScheme: byPrereleaseNumber
+    majorVersion: '$(Major)'
+    minorVersion: '$(Minor)'
+    patchVersion: '$(rev:.r)'
